@@ -1,6 +1,4 @@
 __pycache__/
 *.pyc
 .cache/
-reference_images/
-ppe_gallery.npy
 .DS_Store
